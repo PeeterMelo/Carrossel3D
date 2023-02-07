@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: rgb(223, 218, 218);
+    background: radial-gradient(red,blue);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 255, 255);
     text-shadow: black 4px 4px 6px;
